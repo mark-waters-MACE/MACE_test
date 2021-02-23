@@ -1,0 +1,12 @@
+// This is a simple text file to make changes to
+// When making changes we typically perform them on a branch away from the master copy of the program
+// That way, we keep the master branch as the one we use for production and we know it works
+// we can make changes to our copy in another branch and it doesn't matter if we make the code fail
+
+// This is the Master Branch
+
+// Users
+user_number = 1
+username = markwaters-MACE
+email = mark.waters@m-ace.mee.com
+
