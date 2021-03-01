@@ -19,3 +19,9 @@ email = markwaters306@gmail.com
 user_number = 3
 username = skinny_malinky
 email = skinny_malinky@gmail.com
+
+// Adding a third user from Mac
+user_number = 4
+username = long_legs
+email = long_legs@gmail.com
+
