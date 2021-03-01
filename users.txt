@@ -25,3 +25,9 @@ user_number = 4
 username = long_legs
 email = long_legs@gmail.com
 
+// Adding fourth user from Mac 
+user_number = 5
+username = john_smith
+email = john_smith@gmail.com
+
+
