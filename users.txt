@@ -10,3 +10,7 @@ user_number = 1
 username = markwaters-MACE
 email = mark.waters@m-ace.mee.com
 
+// Adding a new user from my personal Account
+user_number = 2
+username = markwaters306
+email = markwaters306@gmail.com
