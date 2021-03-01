@@ -14,3 +14,8 @@ email = mark.waters@m-ace.mee.com
 user_number = 2
 username = markwaters306
 email = markwaters306@gmail.com
+
+// Adding a second user and try create a pull request
+user_number = 3
+username = skinny_malinky
+email = skinny_malinky@gmail.com
