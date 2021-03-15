@@ -14,7 +14,13 @@
     {
         "username": "john_doe",
         "name": "John Doe",
-        "usernumber" 3,
+        "usernumber": 3,
         "email": "john.doe@m-ace.mee.com"
+     }
+     {
+         "username": "peter_rabbit",
+         "name": "Peter Rabbit",
+         "usernumber": 4,
+         "email": "peer.rabbit@m-ace.mee.com"
      }
 ]
